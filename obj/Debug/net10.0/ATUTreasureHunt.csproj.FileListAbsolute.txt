@@ -1,0 +1,16 @@
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.exe
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.deps.json
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.runtimeconfig.json
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.runtimeconfig.dev.json
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.dll
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\bin\Debug\net10.0\ATUTreasureHunt.pdb
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.AssemblyInfoInputs.cache
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.AssemblyInfo.cs
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.csproj.CoreCompileInputs.cache
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.dll
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\refint\ATUTreasureHunt.dll
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.pdb
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreasureHunt.genruntimeconfig.cache
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ref\ATUTreasureHunt.dll
+E:\SchoolWork\Year2\Sem1\OOP\ATUTreasureHunt\ATUTreasureHunt\obj\Debug\net10.0\ATUTreas.B99562A1.Up2Date
